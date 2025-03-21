@@ -56,5 +56,5 @@ This project is designed to run on [Google Colab](https://colab.research.google.
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/suryanshuanand1407x/AI-Resume-Screener.git>
+   cd <https://github.com/suryanshuanand1407x/AI-Resume-Screener.git>
