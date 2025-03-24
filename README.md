@@ -12,7 +12,7 @@ This repository contains an interactive candidate screening process built using 
 ## Features
 
 - **Interactive Candidate Form:**  
-  - Enter job details (Company Name, Job Title, Job Type, Job Description).
+  - Enter the job details (Company Name, Job Title, Job Type, Job Description).
   - Generate a set of five tailored screening questions.
   - Answer the questions and submit the form.
   - Form resets automatically after submission.
